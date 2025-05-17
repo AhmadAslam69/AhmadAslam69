@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmadAslam69
+- 👋 Hi, I’m @AhmadAslam
 - 👀 I’m interested in coding, trading, football, Gym and ecom 
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on social media
